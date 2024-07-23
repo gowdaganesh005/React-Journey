@@ -1,11 +1,11 @@
 ## React-Journey
-# A Repo to document My Journey of learning React Js as part of Frontend Development
+#### A Repo to document My Journey of learning React Js as part of Frontend Development
 
 
 
-## Installation and build a React Project
+#### Installation and build a React Project
 
-# Method 1
+##### Method 1
 ```cmd
 npx create-react-app 01basicreact
 ```
@@ -19,7 +19,7 @@ To run (basic command)
 npm run start
 ```
 
-# Method 2
+##### Method 2
 ```cmd
 npm create vite@latest
 ```
